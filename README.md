@@ -1,0 +1,3 @@
+## SHADCN-FORM-DEMO-pages-directory
+
+### NEXTJS + SHADCN + REACT-HOOK-FORM + ZOD + TS
