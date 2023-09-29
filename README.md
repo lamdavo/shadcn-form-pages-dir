@@ -1,3 +1,3 @@
-## SHADCN-FORM-DEMO-pages-directory
+## Student Registration Form
 
 ### NEXTJS + SHADCN + REACT-HOOK-FORM + ZOD + TS
